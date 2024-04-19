@@ -57,7 +57,7 @@ XAMPP, an acronym for cross-platform, Apache, MySQL, PHP, and Perl, is a widely 
 ### C. Directory
 Following is directory of application.
 
-<img width="237" alt="image" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/7cba33f7-8755-4cf8-a9e9-3f59259c00bc">
+<img width="500" alt="image" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/7cba33f7-8755-4cf8-a9e9-3f59259c00bc">
 
 ### D. Menu for Users
 * Management
