@@ -140,6 +140,13 @@ Now next is view doctor report, but for doc_26 we don’t have any data, so I wi
 <img width="720" alt="Screenshot 2024-04-19 at 12 44 25" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/036ef2b3-02ee-409c-9269-0d02e511b3f5">
 
 Report for doc_1.
+
 <img width="720" alt="Screenshot 2024-04-19 at 12 44 53" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/e683c83d-f15a-47db-9f82-7391aed18a1c">
+
+__Disease Registration Report__
+Similarly is for Disease Registration Report.
+
+<img width="720" alt="Screenshot 2024-04-19 at 12 46 07" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/643ff287-6fd7-4556-98b1-28907cd4b709">
+
 
 A
