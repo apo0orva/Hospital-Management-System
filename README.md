@@ -82,6 +82,7 @@ Throughout the application, sessions are used to check user to give authorized a
 
 ### Login Page
 Incorrect username and password.
+
 <img width="720" alt="Screenshot 2024-04-19 at 11 23 04" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/ae9fa0bf-5320-4317-b8a9-0481521f4317">
 
 Enter both username and password for access.
@@ -89,6 +90,7 @@ Enter both username and password for access.
 
 ### Login Management
 Management landing page.
+
 <img width="720" alt="Screenshot 2024-04-19 at 11 25 46" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a5aa28bf-688f-4736-9af7-6b77cf5a1a48">
 
 __Register a doctor.__
@@ -96,6 +98,7 @@ __Register a doctor.__
 
 Registration successful. Credentials will be downloaded here. 
 <img width="720" alt="Screenshot 2024-04-19 at 11 27 20" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/f4844fe8-141f-4769-90c3-b8cc8a8271aa">
+
 *Future Improvement: Above credential can be update by using email service instead of downloading text file.*
 
 Credential for doctor 'Albert ABC' (doc_26)
@@ -126,6 +129,7 @@ Following is the invalid data input.
 
 
 Error message is displayed below.
+
 <img width="720" alt="Screenshot 2024-04-19 at 12 29 05" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/b597986e-effe-4d08-9bfc-c864036675fc">
 
 __Monthly Report Doctor.__
