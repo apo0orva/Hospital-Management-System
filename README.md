@@ -8,7 +8,7 @@ The report presents the development and implementation of a PHP and MySQL-based 
 ## Introduction
 This report details the creation and implementation of a PHP and MySQL-based clinic/hospital management system, aimed at optimizing healthcare administration and patient care. The system, initiated from the index.php page, streamlines user authentication via the user_login.php page, ensuring secure access to tailored functionalities for MANAGEMENT, RECEPTIONISTS, and DOCTORS.
 
-<img width="1440" alt="Screenshot 2024-04-18 at 22 02 18" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/84ba9126-4233-4088-9210-23b5969eadaa">
+<img width="720" alt="Screenshot 2024-04-18 at 22 02 18" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/84ba9126-4233-4088-9210-23b5969eadaa">
 
 Built upon PHP for dynamic scripting and MySQL for robust database management, the system offers a tailored experience for each user group. MANAGEMENT benefits from comprehensive administrative tools, while RECEPTIONISTS manage patient interactions efficiently, and DOCTORS access patient records seamlessly.
 
@@ -82,20 +82,20 @@ Throughout the application, sessions are used to check user to give authorized a
 
 ### Login Page
 Incorrect username and password.
-<img width="1440" alt="Screenshot 2024-04-19 at 11 23 04" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/ae9fa0bf-5320-4317-b8a9-0481521f4317">
+<img width="720" alt="Screenshot 2024-04-19 at 11 23 04" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/ae9fa0bf-5320-4317-b8a9-0481521f4317">
 
 Enter both username and password for access.
-<img width="1440" alt="Screenshot 2024-04-19 at 11 24 51" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/90f10fb3-f457-4632-ba8e-7eb3ccac4e33">
+<img width="720" alt="Screenshot 2024-04-19 at 11 24 51" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/90f10fb3-f457-4632-ba8e-7eb3ccac4e33">
 
 ### Login Management
 Management landing page.
-<img width="1440" alt="Screenshot 2024-04-19 at 11 25 46" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a5aa28bf-688f-4736-9af7-6b77cf5a1a48">
+<img width="720" alt="Screenshot 2024-04-19 at 11 25 46" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a5aa28bf-688f-4736-9af7-6b77cf5a1a48">
 
 __Register a doctor.__
-<img width="1440" alt="Screenshot 2024-04-19 at 11 26 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/76a4c297-b0af-45b1-8383-e25ac8569d90">
+<img width="720" alt="Screenshot 2024-04-19 at 11 26 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/76a4c297-b0af-45b1-8383-e25ac8569d90">
 
 Registration successful. Credentials will be downloaded here. 
-<img width="1440" alt="Screenshot 2024-04-19 at 11 27 20" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/f4844fe8-141f-4769-90c3-b8cc8a8271aa">
+<img width="720" alt="Screenshot 2024-04-19 at 11 27 20" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/f4844fe8-141f-4769-90c3-b8cc8a8271aa">
 *Future Improvement: Above credential can be update by using email service instead of downloading text file.*
 
 Credential for doctor 'Albert ABC' (doc_26)
@@ -114,19 +114,19 @@ __Remove doctor.__
 
 E.g. Albert ABC.
 *This only removes login access for doctor. A simple rule of internet, nothing is deleted but disabled.*
-<img width="1440" alt="Screenshot 2024-04-19 at 12 10 00" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/cd662c8f-ce64-4ff8-9d65-95f3e223d806">
-<img width="1440" alt="Screenshot 2024-04-19 at 12 12 19" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/4a3b382b-7aae-49fc-9b1c-227aeea8df14">
+<img width="720" alt="Screenshot 2024-04-19 at 12 10 00" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/cd662c8f-ce64-4ff8-9d65-95f3e223d806">
+<img width="720" alt="Screenshot 2024-04-19 at 12 12 19" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/4a3b382b-7aae-49fc-9b1c-227aeea8df14">
 
 
 Error handling in remove doctor.
 
 *For instance, I have a user: doc_17 & id: 17.*
 Following is the invalid data input.
-<img width="1440" alt="Screenshot 2024-04-19 at 12 28 28" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/29d4aa56-5934-4382-82b2-59802d17dc7b">
+<img width="720" alt="Screenshot 2024-04-19 at 12 28 28" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/29d4aa56-5934-4382-82b2-59802d17dc7b">
 
 
 Error message is displayed below.
-<img width="1440" alt="Screenshot 2024-04-19 at 12 29 05" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/b597986e-effe-4d08-9bfc-c864036675fc">
+<img width="720" alt="Screenshot 2024-04-19 at 12 29 05" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/b597986e-effe-4d08-9bfc-c864036675fc">
 
 __Monthly Report Doctor.__
 
