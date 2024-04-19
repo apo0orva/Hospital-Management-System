@@ -111,6 +111,7 @@ Doctor 'Albert ABC' credential and role access added to login table.
 <img width="613" alt="Screenshot 2024-04-19 at 11 38 15" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a01118cc-e6b6-40ee-b231-94591cce86bf">
 
 __Remove doctor.__
+
 E.g. Albert ABC.
 *This only removes login access for doctor. A simple rule of internet, nothing is deleted but disabled.*
 <img width="1440" alt="Screenshot 2024-04-19 at 12 10 00" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/cd662c8f-ce64-4ff8-9d65-95f3e223d806">
