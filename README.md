@@ -91,7 +91,7 @@ Enter both username and password for access.
 Management landing page.
 <img width="1440" alt="Screenshot 2024-04-19 at 11 25 46" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a5aa28bf-688f-4736-9af7-6b77cf5a1a48">
 
-Register a doctor.
+__Register a doctor.__
 <img width="1440" alt="Screenshot 2024-04-19 at 11 26 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/76a4c297-b0af-45b1-8383-e25ac8569d90">
 
 Registration successful. Credentials will be downloaded here. 
@@ -102,6 +102,7 @@ Credential for doctor 'Albert ABC' (doc_26)
 
 <img width="560" alt="Screenshot 2024-04-19 at 11 30 03" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a7f96741-8498-4b15-938d-8f3002c192b6">
 
+
 Doctor 'Albert ABC' is added to doctor table.
 
 <img width="613" alt="Screenshot 2024-04-19 at 11 34 36" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a6161166-6a4b-4e15-9b1b-b6c3a8656638">
@@ -109,7 +110,8 @@ Doctor 'Albert ABC' is added to doctor table.
 Doctor 'Albert ABC' credential and role access added to login table.
 <img width="613" alt="Screenshot 2024-04-19 at 11 38 15" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a01118cc-e6b6-40ee-b231-94591cce86bf">
 
-Remove doc_26 (Albert ABC).
+__Remove doctor.__
+E.g. Albert ABC.
 *This only removes login access for doctor. A simple rule of internet, nothing is deleted but disabled.*
 <img width="1440" alt="Screenshot 2024-04-19 at 12 10 00" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/cd662c8f-ce64-4ff8-9d65-95f3e223d806">
 <img width="1440" alt="Screenshot 2024-04-19 at 12 12 19" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/4a3b382b-7aae-49fc-9b1c-227aeea8df14">
@@ -125,6 +127,6 @@ Following is the invalid data input.
 Error message is displayed below.
 <img width="1440" alt="Screenshot 2024-04-19 at 12 29 05" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/b597986e-effe-4d08-9bfc-c864036675fc">
 
-Monthly Report Doctor
+__Monthly Report Doctor.__
 
 A
