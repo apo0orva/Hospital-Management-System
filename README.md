@@ -94,6 +94,7 @@ Management landing page.
 <img width="720" alt="Screenshot 2024-04-19 at 11 25 46" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a5aa28bf-688f-4736-9af7-6b77cf5a1a48">
 
 __Register a doctor.__
+
 <img width="720" alt="Screenshot 2024-04-19 at 11 26 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/76a4c297-b0af-45b1-8383-e25ac8569d90">
 
 Registration successful. Credentials will be downloaded here. 
@@ -133,5 +134,12 @@ Error message is displayed below.
 <img width="720" alt="Screenshot 2024-04-19 at 12 29 05" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/b597986e-effe-4d08-9bfc-c864036675fc">
 
 __Monthly Report Doctor.__
+
+Now next is view doctor report, but for doc_26 we don’t have any data, so I will be using doc_1 for illustration purpose.
+
+<img width="720" alt="Screenshot 2024-04-19 at 12 44 25" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/036ef2b3-02ee-409c-9269-0d02e511b3f5">
+
+Report for doc_1.
+<img width="720" alt="Screenshot 2024-04-19 at 12 44 53" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/e683c83d-f15a-47db-9f82-7391aed18a1c">
 
 A
