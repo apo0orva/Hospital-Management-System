@@ -103,6 +103,7 @@ Credential for doctor 'Albert ABC' (doc_26)
 <img width="560" alt="Screenshot 2024-04-19 at 11 30 03" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a7f96741-8498-4b15-938d-8f3002c192b6">
 
 Doctor 'Albert ABC' is added to doctor table.
+
 <img width="613" alt="Screenshot 2024-04-19 at 11 34 36" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a6161166-6a4b-4e15-9b1b-b6c3a8656638">
 
 Doctor 'Albert ABC' credential and role access added to login table.
@@ -113,12 +114,17 @@ Remove doc_26 (Albert ABC).
 <img width="1440" alt="Screenshot 2024-04-19 at 12 10 00" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/cd662c8f-ce64-4ff8-9d65-95f3e223d806">
 <img width="1440" alt="Screenshot 2024-04-19 at 12 12 19" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/4a3b382b-7aae-49fc-9b1c-227aeea8df14">
 
+
 Error handling in remove doctor.
+
 *For instance, I have a user: doc_17 & id: 17.*
 Following is the invalid data input.
 <img width="1440" alt="Screenshot 2024-04-19 at 12 28 28" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/29d4aa56-5934-4382-82b2-59802d17dc7b">
+
+
 Error message is displayed below.
 <img width="1440" alt="Screenshot 2024-04-19 at 12 29 05" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/b597986e-effe-4d08-9bfc-c864036675fc">
 
+Monthly Report Doctor
 
 A
