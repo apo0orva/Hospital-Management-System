@@ -75,5 +75,39 @@ Following is directory of application.
    * Diagnosis
    * Logout
 
+## DEMO
+Let’s go through a live demo to better understand the whole application.
+
+Throughout the application, sessions are used to check user to give authorized access to the page.
+
+### Login Page
+Incorrect username and password.
+<img width="1440" alt="Screenshot 2024-04-19 at 11 23 04" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/ae9fa0bf-5320-4317-b8a9-0481521f4317">
+
+Enter both username and password for access.
+<img width="1440" alt="Screenshot 2024-04-19 at 11 24 51" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/90f10fb3-f457-4632-ba8e-7eb3ccac4e33">
+
+### Login Management
+Management landing page.
+<img width="1440" alt="Screenshot 2024-04-19 at 11 25 46" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a5aa28bf-688f-4736-9af7-6b77cf5a1a48">
+
+Register a doctor.
+<img width="1440" alt="Screenshot 2024-04-19 at 11 26 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/76a4c297-b0af-45b1-8383-e25ac8569d90">
+
+Registration successful. Credentials will be downloaded here. 
+<img width="1440" alt="Screenshot 2024-04-19 at 11 27 20" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/f4844fe8-141f-4769-90c3-b8cc8a8271aa">
+*Future Improvement: Above credential can be update by using email service instead of downloading text file.*
+
+Credential for doctor 'Albert ABC' (doc_26)
+
+<img width="560" alt="Screenshot 2024-04-19 at 11 30 03" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a7f96741-8498-4b15-938d-8f3002c192b6">
+
+Doctor 'Albert ABC' is added to doctor table.
+<img width="613" alt="Screenshot 2024-04-19 at 11 34 36" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a6161166-6a4b-4e15-9b1b-b6c3a8656638">
+
+Doctor 'Albert ABC' credential and role access added to login table.
+<img width="613" alt="Screenshot 2024-04-19 at 11 38 15" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a01118cc-e6b6-40ee-b231-94591cce86bf">
+
+
 
 A
