@@ -108,6 +108,17 @@ Doctor 'Albert ABC' is added to doctor table.
 Doctor 'Albert ABC' credential and role access added to login table.
 <img width="613" alt="Screenshot 2024-04-19 at 11 38 15" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a01118cc-e6b6-40ee-b231-94591cce86bf">
 
+Remove doc_26 (Albert ABC).
+*This only removes login access for doctor. A simple rule of internet, nothing is deleted but disabled.*
+<img width="1440" alt="Screenshot 2024-04-19 at 12 10 00" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/cd662c8f-ce64-4ff8-9d65-95f3e223d806">
+<img width="1440" alt="Screenshot 2024-04-19 at 12 12 19" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/4a3b382b-7aae-49fc-9b1c-227aeea8df14">
+
+Error handling in remove doctor.
+*For instance, I have a user: doc_17 & id: 17.*
+Following is the invalid data input.
+<img width="1440" alt="Screenshot 2024-04-19 at 12 28 28" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/29d4aa56-5934-4382-82b2-59802d17dc7b">
+Error message is displayed below.
+<img width="1440" alt="Screenshot 2024-04-19 at 12 29 05" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/b597986e-effe-4d08-9bfc-c864036675fc">
 
 
 A
