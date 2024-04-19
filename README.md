@@ -54,4 +54,26 @@ XAMPP, an acronym for cross-platform, Apache, MySQL, PHP, and Perl, is a widely 
         * Receptionist – u2.
         * Doctor – u3.
 
+### C. Directory
+Following is directory of application.
+
+<img width="237" alt="image" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/7cba33f7-8755-4cf8-a9e9-3f59259c00bc">
+
+### D. Menu for Users
+* Management
+   * Register Doctor
+   * Remove Doctor
+   * Doctor Report
+   * Disease Report
+   * Logout
+* Receptionist
+   * Register Patient
+   * Search Patient
+   * Check Appointment
+   * Logout
+* Doctor
+   * Diagnosis
+   * Logout
+
+
 A
