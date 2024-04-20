@@ -153,7 +153,16 @@ Logout brings us back to index page including login.
 ### Login Doctor.
 Doctor's landing page.
 
-<img width="1440" alt="Screenshot 2024-04-19 at 17 37 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/3587fee8-ccb9-4bc5-a453-929a45f7c2cc">
+<img width="720" alt="Screenshot 2024-04-19 at 17 37 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/3587fee8-ccb9-4bc5-a453-929a45f7c2cc">
+
+__Diagnose Patient.__
+Enter patient id to diagnose patient. If patient exist, then only the remaining page is loaded.
+For illustration purpose, patient id is 11. Details for patient 11 is loaded on left half and diagnosis form on the right.
+
+<img width="1440" alt="Screenshot 2024-04-19 at 17 40 15" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/ea7d5e78-9d71-49ee-8303-741a8f84c03f">
+
+Error data input message is displayed and prevents diagnosing that data.
+
 
 
 ### Login Receptionist.
