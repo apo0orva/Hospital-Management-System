@@ -156,12 +156,26 @@ Doctor's landing page.
 <img width="720" alt="Screenshot 2024-04-19 at 17 37 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/3587fee8-ccb9-4bc5-a453-929a45f7c2cc">
 
 __Diagnose Patient.__
+
 Enter patient id to diagnose patient. If patient exist, then only the remaining page is loaded.
 For illustration purpose, patient id is 11. Details for patient 11 is loaded on left half and diagnosis form on the right.
 
-<img width="1440" alt="Screenshot 2024-04-19 at 17 40 15" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/ea7d5e78-9d71-49ee-8303-741a8f84c03f">
+<img width="720" alt="Screenshot 2024-04-19 at 17 40 15" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/ea7d5e78-9d71-49ee-8303-741a8f84c03f">
 
 Error data input message is displayed and prevents diagnosing that data.
+
+This one is for discharge date with infected patient.
+<img width="720" alt="Screenshot 2024-04-19 at 17 45 43" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/2e840260-b4b8-478f-973d-91ecf21457f9">
+
+If cured and discharged (valid case), record diagnosis.
+
+<img width="720" alt="Screenshot 2024-04-19 at 17 48 00" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/636aea13-70de-46ae-9b2a-7093d70054b5">
+
+Updated data for table patient (d_pat_11).
+<img width="720" alt="Screenshot 2024-04-19 at 17 48 31" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/1181794e-789c-4ae7-bf57-937e06845b19">
+
+Updated data for table d_patient.
+<img width="720" alt="Screenshot 2024-04-19 at 17 50 27" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/1e815661-3bc6-4650-8976-671d0cb226b2">
 
 
 
