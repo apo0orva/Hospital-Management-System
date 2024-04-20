@@ -179,11 +179,23 @@ Updated data for table d_patient.
 
 <img width="720" alt="Screenshot 2024-04-19 at 17 50 27" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/1e815661-3bc6-4650-8976-671d0cb226b2">
 
-
-
 ### Login Receptionist.
+Receptionist Landing page.
+
+<img width="1440" alt="Screenshot 2024-04-19 at 18 17 07" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/e38c3d67-58e1-48a2-b039-fb3e01855a40">
+
+__Register Patient.__
+
+<img width="720" alt="image" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a912a38b-ea3a-47d1-add6-08ccfbeac8b0">
+
+
+__Search Patient.__
+
 A
 
+__Check Appointments.__
+
+A
 
 
 A
