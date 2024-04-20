@@ -148,5 +148,17 @@ Similarly is for Disease Registration Report.
 
 <img width="720" alt="Screenshot 2024-04-19 at 12 46 07" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/643ff287-6fd7-4556-98b1-28907cd4b709">
 
+Logout brings us back to index page including login.
+
+### Login Doctor.
+Doctor's landing page.
+
+<img width="1440" alt="Screenshot 2024-04-19 at 17 37 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/3587fee8-ccb9-4bc5-a453-929a45f7c2cc">
+
+
+### Login Receptionist.
+A
+
+
 
 A
