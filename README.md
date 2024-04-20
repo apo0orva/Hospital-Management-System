@@ -217,7 +217,8 @@ If patient don't exist, following error message is displayed.
 If invalid input data is provided, displays invalid patient id.
 <img width="720" alt="Screenshot 2024-04-19 at 18 44 36" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/3afff7c1-d7aa-4b92-b5cf-f91a762bd59e">
 
-##Conclusion
+## Conclusion
+
 The development and implementation of the PHP and MySQL-based clinic/hospital management system mark a significant achievement in the realm of healthcare administration technology. Through meticulous design and execution, the system offers a robust solution aimed at enhancing operational efficiency and elevating patient care standards.
 
 By leveraging PHP for dynamic scripting and MySQL for robust database management, the system provides tailored functionalities to meet the diverse needs of MANAGEMENT, RECEPTIONISTS, and DOCTORS. From patient registration to appointment scheduling and medical record management, each user group benefits from intuitive tools and secure access controls.
