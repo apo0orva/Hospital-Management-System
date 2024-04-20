@@ -93,7 +93,7 @@ Management landing page.
 
 <img width="720" alt="Screenshot 2024-04-19 at 11 25 46" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a5aa28bf-688f-4736-9af7-6b77cf5a1a48">
 
-__Register a doctor.__
+__1. Register a doctor.__
 
 <img width="720" alt="Screenshot 2024-04-19 at 11 26 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/76a4c297-b0af-45b1-8383-e25ac8569d90">
 
@@ -114,7 +114,7 @@ Doctor 'Albert ABC' is added to doctor table.
 Doctor 'Albert ABC' credential and role access added to login table.
 <img width="613" alt="Screenshot 2024-04-19 at 11 38 15" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a01118cc-e6b6-40ee-b231-94591cce86bf">
 
-__Remove doctor.__
+__2. Remove doctor.__
 
 E.g. Albert ABC.
 *This only removes login access for doctor. A simple rule of internet, nothing is deleted but disabled.*
@@ -133,7 +133,7 @@ Error message is displayed below.
 
 <img width="720" alt="Screenshot 2024-04-19 at 12 29 05" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/b597986e-effe-4d08-9bfc-c864036675fc">
 
-__Monthly Report Doctor.__
+__3. Monthly Report Doctor.__
 
 Now next is view doctor report, but for doc_26 we don’t have any data, so I will be using doc_1 for illustration purpose.
 
@@ -143,7 +143,7 @@ Report for doc_1.
 
 <img width="720" alt="Screenshot 2024-04-19 at 12 44 53" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/e683c83d-f15a-47db-9f82-7391aed18a1c">
 
-__Disease Registration Report__
+__4. Disease Registration Report__
 Similarly is for Disease Registration Report.
 
 <img width="720" alt="Screenshot 2024-04-19 at 12 46 07" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/643ff287-6fd7-4556-98b1-28907cd4b709">
@@ -155,7 +155,7 @@ Doctor's landing page.
 
 <img width="720" alt="Screenshot 2024-04-19 at 17 37 26" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/3587fee8-ccb9-4bc5-a453-929a45f7c2cc">
 
-__Diagnose Patient.__
+__1. Diagnose Patient.__
 
 Enter patient id to diagnose patient. If patient exist, then only the remaining page is loaded.
 For illustration purpose, patient id is 11. Details for patient 11 is loaded on left half and diagnosis form on the right.
@@ -184,7 +184,7 @@ Receptionist Landing page.
 
 <img width="720" alt="Screenshot 2024-04-19 at 18 17 07" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/e38c3d67-58e1-48a2-b039-fb3e01855a40">
 
-__Register Patient.__
+__1. Register Patient.__
 
 Registering a patient.
 
@@ -198,7 +198,7 @@ It downloads a receipt in form of text file for patient on successful registrati
 <img width="720" alt="Screenshot 2024-04-19 at 18 33 55" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/40c3d945-cb96-4794-9174-a7e16301363f">
 
 
-__Search Patient.__
+__2. Search Patient.__
 
 You can search a patient from any combination in the form. The gender is the requied field.
 <img width="720" alt="Screenshot 2024-04-19 at 18 36 48" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/bb596408-08e1-45e7-b5da-a4cb1c6e7e8b">
@@ -206,7 +206,7 @@ You can search a patient from any combination in the form. The gender is the req
 Results in form of table, which is scrollable.
 <img width="720" alt="Screenshot 2024-04-19 at 18 40 54" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/c96b800b-0ead-4d60-ba70-ae536b4a46f3">
 
-__Check Appointments.__
+__3. Check Appointments.__
 
 To check patient's appointment, enter patient id and it will show latest appointment for the patient.
 <img width="720" alt="Screenshot 2024-04-19 at 18 43 34" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/186066cc-6f54-4348-99e4-7a736ca4ee17">
@@ -217,4 +217,10 @@ If patient don't exist, following error message is displayed.
 If invalid input data is provided, displays invalid patient id.
 <img width="720" alt="Screenshot 2024-04-19 at 18 44 36" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/3afff7c1-d7aa-4b92-b5cf-f91a762bd59e">
 
-A
+##Conclusion
+The development and implementation of the PHP and MySQL-based clinic/hospital management system mark a significant achievement in the realm of healthcare administration technology. Through meticulous design and execution, the system offers a robust solution aimed at enhancing operational efficiency and elevating patient care standards.
+
+By leveraging PHP for dynamic scripting and MySQL for robust database management, the system provides tailored functionalities to meet the diverse needs of MANAGEMENT, RECEPTIONISTS, and DOCTORS. From patient registration to appointment scheduling and medical record management, each user group benefits from intuitive tools and secure access controls.
+The emphasis on security is paramount, with stringent authentication measures and access controls in place to safeguard sensitive patient information. Continuous testing and refinement ensure data integrity and system reliability, paving the way for future enhancements and iterative improvements.
+The live demonstration underscores the system's effectiveness in real-world scenarios, highlighting its seamless user experience and functional capabilities. From user authentication to patient diagnosis and appointment management, the system demonstrates its ability to streamline operations and facilitate efficient healthcare delivery.
+The clinic/hospital management system presented in this report represents a significant advancement in healthcare administration technology. By integrating technology with healthcare practices, the system holds the promise of revolutionizing clinic and hospital operations, ultimately contributing to improved patient outcomes and organizational efficiency.
