@@ -182,11 +182,21 @@ Updated data for table d_patient.
 ### Login Receptionist.
 Receptionist Landing page.
 
-<img width="1440" alt="Screenshot 2024-04-19 at 18 17 07" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/e38c3d67-58e1-48a2-b039-fb3e01855a40">
+<img width="720" alt="Screenshot 2024-04-19 at 18 17 07" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/e38c3d67-58e1-48a2-b039-fb3e01855a40">
 
 __Register Patient.__
 
-<img width="720" alt="image" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/a912a38b-ea3a-47d1-add6-08ccfbeac8b0">
+Registering a patient.
+
+<img width="720" alt="Screenshot 2024-04-19 at 18 19 35" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/6ef7d167-a3bb-4593-89f5-eb679ab9abfe">
+
+It downloads a receipt in form of text file for patient on successful registration.
+
+*It can be further improved with an email or sms service!*
+
+<img width="720" alt="Screenshot 2024-04-19 at 18 33 14" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/88a6dc66-fd1a-4921-ad2a-1b335708f69c">
+<img width="720" alt="Screenshot 2024-04-19 at 18 33 55" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/40c3d945-cb96-4794-9174-a7e16301363f">
+
 
 
 __Search Patient.__
