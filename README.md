@@ -172,9 +172,11 @@ If cured and discharged (valid case), record diagnosis.
 <img width="720" alt="Screenshot 2024-04-19 at 17 48 00" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/636aea13-70de-46ae-9b2a-7093d70054b5">
 
 Updated data for table patient (d_pat_11).
+
 <img width="720" alt="Screenshot 2024-04-19 at 17 48 31" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/1181794e-789c-4ae7-bf57-937e06845b19">
 
 Updated data for table d_patient.
+
 <img width="720" alt="Screenshot 2024-04-19 at 17 50 27" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/1e815661-3bc6-4650-8976-671d0cb226b2">
 
 
