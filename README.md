@@ -225,3 +225,7 @@ By leveraging PHP for dynamic scripting and MySQL for robust database management
 The emphasis on security is paramount, with stringent authentication measures and access controls in place to safeguard sensitive patient information. Continuous testing and refinement ensure data integrity and system reliability, paving the way for future enhancements and iterative improvements.
 The live demonstration underscores the system's effectiveness in real-world scenarios, highlighting its seamless user experience and functional capabilities. From user authentication to patient diagnosis and appointment management, the system demonstrates its ability to streamline operations and facilitate efficient healthcare delivery.
 The clinic/hospital management system presented in this report represents a significant advancement in healthcare administration technology. By integrating technology with healthcare practices, the system holds the promise of revolutionizing clinic and hospital operations, ultimately contributing to improved patient outcomes and organizational efficiency.
+
+
+For web based application, use following link
+https://github.com/apo0orva/Hospital-Management-System-Python
