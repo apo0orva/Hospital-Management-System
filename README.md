@@ -198,14 +198,23 @@ It downloads a receipt in form of text file for patient on successful registrati
 <img width="720" alt="Screenshot 2024-04-19 at 18 33 55" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/40c3d945-cb96-4794-9174-a7e16301363f">
 
 
-
 __Search Patient.__
 
-A
+You can search a patient from any combination in the form. The gender is the requied field.
+<img width="720" alt="Screenshot 2024-04-19 at 18 36 48" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/bb596408-08e1-45e7-b5da-a4cb1c6e7e8b">
+
+Results in form of table, which is scrollable.
+<img width="720" alt="Screenshot 2024-04-19 at 18 40 54" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/c96b800b-0ead-4d60-ba70-ae536b4a46f3">
 
 __Check Appointments.__
 
-A
+To check patient's appointment, enter patient id and it will show latest appointment for the patient.
+<img width="720" alt="Screenshot 2024-04-19 at 18 43 34" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/186066cc-6f54-4348-99e4-7a736ca4ee17">
 
+If patient don't exist, following error message is displayed.
+<img width="720" alt="Screenshot 2024-04-19 at 18 44 23" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/59d4cb96-c298-4a39-b564-d57e958a1b88">
+
+If invalid input data is provided, displays invalid patient id.
+<img width="720" alt="Screenshot 2024-04-19 at 18 44 36" src="https://github.com/apo0orva/Hospital-Management-System/assets/67102493/3afff7c1-d7aa-4b92-b5cf-f91a762bd59e">
 
 A
